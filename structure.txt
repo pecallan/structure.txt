@@ -1,0 +1,30 @@
+One-page scrolling website. Use the following section order:
+
+1. Header / Home
+   - Preferred name: Padget Callan
+   - Headline: Psychology graduate pursuing an MSc in People Analytics and Human-Centric Management at University College London, interested in the intersection of human behaviour, research and data.
+   - Short bio from bio.txt
+   - Portrait: NOT READY. Show the text "Portrait coming soon"; do not create an image element.
+
+2. Portfolio
+   - Introduce projects related to data analysis, visualisation and behavioural research.
+   - Chart 1: NOT READY. Show the plain text "Chart coming soon"; do not create an image or iframe.
+   - Add project cards only when public project links and descriptions are supplied. Do not invent projects, chart results or data sources.
+
+3. About
+   - Include the short biography from bio.txt.
+   - Summarise academic interests: psychology, people analytics, behavioural research, organisational behaviour and data-informed decision-making.
+
+4. CV
+   - Present the public CV from cv.txt as readable, scannable HTML.
+   - CV PDF: NOT READY. Show "CV download coming soon"; do not create a download link.
+
+5. Contact
+   - LinkedIn only: https://www.linkedin.com/in/padget-callan/
+
+6. Footer
+   - Include the year and the line: "Built with the help of generative AI; content and decisions are my own."
+
+Menu labels: Home, Portfolio, About, CV, Contact.
+
+Design: professional, approachable, minimalist and mobile-friendly. Use a blue and orange accent palette, strong contrast, readable typography, generous spacing and underlined links. Use accessible alt text for any image that is added later.
